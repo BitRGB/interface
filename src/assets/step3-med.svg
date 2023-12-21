@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_chat</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="100" rx="50"></rect>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-40.0%" y="-40.0%" width="179.9%" height="179.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="15" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-28.4%" y="-28.4%" width="156.7%" height="156.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-109.1%" y="-109.1%" width="318.1%" height="318.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="29" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-44.7%" y="-44.7%" width="189.4%" height="189.4%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-197.8%" y="-197.8%" width="495.7%" height="495.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="34" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网首页2" transform="translate(-1230.000000, -5617.000000)">
+            <g id="椭圆形备份-9" transform="translate(472.000000, 5587.000000)">
+                <g id="icon_chat" transform="translate(758.000000, 30.000000)">
+                    <g id="asset-16备份-2">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="矩形" fill="#0A0718" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="编组" mask="url(#mask-2)" fill-rule="nonzero">
+                            <g transform="translate(-17.210696, -18.444304)" id="椭圆形">
+                                <circle fill="#EBF7FD" filter="url(#filter-3)" transform="translate(67.108228, 68.334177) scale(-1, 1) rotate(-180.000000) translate(-67.108228, -68.334177) " cx="67.1082278" cy="68.3341772" r="67.1082278"></circle>
+                                <circle fill="#6597FF" filter="url(#filter-4)" transform="translate(76.621215, 58.597215) scale(-1, 1) rotate(-180.000000) translate(-76.621215, -58.597215) " cx="76.6212152" cy="58.5972152" r="56.2913924"></circle>
+                                <circle fill="#232DE3" filter="url(#filter-5)" transform="translate(84.107405, 52.888924) scale(-1, 1) rotate(-180.000000) translate(-84.107405, -52.888924) " cx="84.1074051" cy="52.8889241" r="52.8889241"></circle>
+                                <circle fill="#EBF7FD" filter="url(#filter-6)" transform="translate(93.107595, 41.444304) scale(-1, 1) rotate(-180.000000) translate(-93.107595, -41.444304) " cx="93.1075949" cy="41.4443038" r="39.8889241"></circle>
+                                <circle fill="#105DFF" filter="url(#filter-7)" transform="translate(71.218734, 65.555190) scale(-1, 1) rotate(-180.000000) translate(-71.218734, -65.555190) " cx="71.2187342" cy="65.5551899" r="33.5555696"></circle>
+                                <circle fill="#002F90" filter="url(#filter-8)" transform="translate(67.210633, 68.444367) scale(-1, 1) rotate(-180.000000) translate(-67.210633, -68.444367) " cx="67.2106329" cy="68.4443671" r="25.7777848"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="discord-(1)" transform="translate(30.000000, 30.000000)" fill-rule="nonzero">
+                        <path d="M0,20 C0,31.045695 8.954305,40 20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 Z" id="路径" fill="#FFFFFF"></path>
+                        <path d="M27.2717578,36.4169531 L6.1440625,33.7050781 C3.86164063,33.4121094 3.98,26.2376172 4.18078125,23.9451953 L5.19773438,12.3350391 C5.39851563,10.0426172 8.10226563,7.63894531 10.3813281,7.32089844 L28.6016797,4.77851563 C30.8808203,4.46054688 35.5251172,13.0851563 35.4801953,15.3858594 L35.14125,32.7728906" id="路径" fill="#FFFFFF"></path>
+                        <path d="M20,11.7333203 C15.5333203,11.7333203 12.4,13.65 12.4,13.65 C14.1166797,12.1166797 17.1166797,11.2333203 17.1166797,11.2333203 L16.8333203,10.95 C14.0166797,11 11.4666797,12.95 11.4666797,12.95 C8.6,18.9333203 8.78332031,24.1 8.78332031,24.1 C11.1166797,27.1166797 14.5833203,26.9 14.5833203,26.9 L15.7666797,25.4 C13.6833203,24.95 12.3666797,23.1 12.3666797,23.1 C12.3666797,23.1 15.5,25.2333203 20,25.2333203 C24.5,25.2333203 27.6333203,23.1 27.6333203,23.1 C27.6333203,23.1 26.3166797,24.95 24.2333203,25.4 L25.4166797,26.9 C25.4166797,26.9 28.8833203,27.1166797 31.2166797,24.1 C31.2166797,24.1 31.4,18.9333203 28.5333203,12.95 C28.5333203,12.95 25.9833203,11 23.1666797,10.95 L22.8833203,11.2333203 C22.8833203,11.2333203 25.8833203,12.1166797 27.6,13.65 C27.6,13.65 24.4666797,11.7333203 20,11.7333203" id="路径" fill="#1353E5"></path>
+                        <path d="M16.55,18.05 C17.6333203,18.05 18.5166797,19 18.5,20.1666797 C18.5,21.3166797 17.6333203,22.2833203 16.55,22.2833203 C15.4833203,22.2833203 14.6166797,21.3166797 14.6166797,20.1666797 C14.6166797,19 15.4666797,18.05 16.55,18.05" id="路径" fill="#FFFFFF"></path>
+                        <path d="M23.5,18.05 C24.5833203,18.05 25.45,19 25.45,20.1666797 C25.45,21.3166797 24.5833203,22.2833203 23.5,22.2833203 C22.4333203,22.2833203 21.5666797,21.3166797 21.5666797,20.1666797 C21.5666797,19 22.4166797,18.05 23.5,18.05 Z" id="路径" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+export const TWRITTER_LINK = "https://twitter.com/BITRGBGlobal"
+export const DISCORD_LINK = "https://discord.gg/RhqyCYym35"
+export const TG_LINK = ""
+export const MEDIUM_LINK = "https://discord.gg/RhqyCYym35"
+export const START_BUILD_LINK = "https://bitrgb.gitbook.io/bitrgb-doc/project-overview/bitrgb"
+export const EXPLOR_LINK = "https://bitrgb.gitbook.io/bitrgb-doc/ecosystem"
+export const READ_DOC_LINK = "https://bitrgb.gitbook.io/bitrgb-doc/project-overview/bitrgb"
+export const COLLABORATE_LINK = "https://bitrgb.gitbook.io/bitrgb-doc/project-overview/bitrgb"
+export const JOIN_CHAT_LINK = "https://discord.gg/VrEmmUuf"
+export const DOC_LINK = "https://bitrgb.gitbook.io/bitrgb-doc/project-overview/bitrgb"
+export const GIT_HUB = "https://github.com/bitrgb"
+

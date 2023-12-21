@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_docs</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="100" rx="50"></rect>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-40.0%" y="-40.0%" width="179.9%" height="179.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="15" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-28.4%" y="-28.4%" width="156.7%" height="156.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-109.1%" y="-109.1%" width="318.1%" height="318.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="29" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-44.7%" y="-44.7%" width="189.4%" height="189.4%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-197.8%" y="-197.8%" width="495.7%" height="495.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="34" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网首页2" transform="translate(-110.000000, -5396.000000)">
+            <g id="icon_docs" transform="translate(110.000000, 5396.000000)">
+                <g id="asset-16">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="矩形" fill="#0A0718" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="编组" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(-17.210696, -18.444304)" id="椭圆形">
+                            <circle fill="#EBF7FD" filter="url(#filter-3)" transform="translate(67.108228, 68.334177) scale(-1, 1) rotate(-180.000000) translate(-67.108228, -68.334177) " cx="67.1082278" cy="68.3341772" r="67.1082278"></circle>
+                            <circle fill="#6597FF" filter="url(#filter-4)" transform="translate(76.621215, 58.597215) scale(-1, 1) rotate(-180.000000) translate(-76.621215, -58.597215) " cx="76.6212152" cy="58.5972152" r="56.2913924"></circle>
+                            <circle fill="#232DE3" filter="url(#filter-5)" transform="translate(84.107405, 52.888924) scale(-1, 1) rotate(-180.000000) translate(-84.107405, -52.888924) " cx="84.1074051" cy="52.8889241" r="52.8889241"></circle>
+                            <circle fill="#EBF7FD" filter="url(#filter-6)" transform="translate(93.107595, 41.444304) scale(-1, 1) rotate(-180.000000) translate(-93.107595, -41.444304) " cx="93.1075949" cy="41.4443038" r="39.8889241"></circle>
+                            <circle fill="#105DFF" filter="url(#filter-7)" transform="translate(71.218734, 65.555190) scale(-1, 1) rotate(-180.000000) translate(-71.218734, -65.555190) " cx="71.2187342" cy="65.5551899" r="33.5555696"></circle>
+                            <circle fill="#002F90" filter="url(#filter-8)" transform="translate(67.210633, 68.444367) scale(-1, 1) rotate(-180.000000) translate(-67.210633, -68.444367) " cx="67.2106329" cy="68.4443671" r="25.7777848"></circle>
+                        </g>
+                    </g>
+                </g>
+                <g id="doc" transform="translate(30.000000, 30.000000)">
+                    <rect id="矩形备份-10" opacity="0.400000006" x="0" y="0" width="40" height="40"></rect>
+                    <path d="M2.85714286,38.8571429 L37.1428571,38.8571429 L37.1428571,1.14285714 L2.85714286,1.14285714 L2.85714286,38.8571429 Z M24.6752417,26.3241168 L11.3352017,26.3241168 L11.3352017,23.4495438 L24.6441337,23.4495438 L24.6752417,26.3241168 Z M11.3352017,16.5219351 L28.6962107,16.5219351 L28.6962107,13.6471936 L11.3352017,13.6471936 L11.3352017,16.5219351 Z" id="Fill-1备份" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
